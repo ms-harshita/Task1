@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Hi, Enter student's name"
-read name
+read full name
 
 echo "Enter the marks in 5 subjects"
 read A
